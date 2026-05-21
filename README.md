@@ -124,6 +124,8 @@ The following deck was generated from a single Google Sheet row for a fictional 
 **Generated headline:**
 *"One Platform to End Northland's Multi-Province Banking Fragmentation"*
 
+![Generated Deck Output](Screenshot _make.com.png)
+
 ---
 
 ## Production Architecture
